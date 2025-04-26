@@ -1,1 +1,1 @@
-# studies-airflow
+# course-airflow
